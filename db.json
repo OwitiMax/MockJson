@@ -1,0 +1,15 @@
+{
+	"Name": "Maxwell Owiti Noo",
+	"Gender": "Male",
+	"Age": 22,
+	"School": "Masinde muliro univesity of science and technology",
+	"contact": [{
+			"Name": "Nancy Akinyi ",
+			"Relationship": "Sister"
+		},
+		{
+			"Name": "William otieno",
+			"Relationship ": "Brother "
+		}
+	]
+}
